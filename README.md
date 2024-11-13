@@ -13,6 +13,11 @@ Bienvenue dans ce projet dédié à l'étude du bien-être et des expériences l
 - **Développer des solutions innovantes** : Utiliser les résultats pour proposer des solutions biotechnologiques visant à améliorer le confort et le soutien pendant ces périodes.
 - **Créer une application utile** : Développer une application qui présente les résultats de l'analyse et offre des conseils personnalisés pour améliorer le bien-être pendant les cycles menstruels.
 
+### Logiciels Utilisés
+
+- **Google Forms** : Pour la création et la distribution du questionnaire.
+- **GitHub** : Pour la gestion du code source et la collaboration.
+
 ### Participation
 
 Votre participation est essentielle pour avancer vers des solutions personnalisées et efficaces. Les questions sont conçues pour être respectueuses et informatives, afin de collecter des informations utiles sans être trop intrusives.
