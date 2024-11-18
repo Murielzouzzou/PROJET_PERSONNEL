@@ -1,0 +1,41 @@
+---
+title: "Analyse"
+author: "Muriel"
+date: "2024-11-18"
+output: html_document
+---
+# Analyse des Symptômes
+
+## Description
+Ce script analyse un fichier contenant des données sur les symptômes. Il :
+1. Importe un fichier Excel contenant les données.
+2. Nettoie les valeurs des symptômes.
+3. Compte les occurrences de chaque symptôme.
+4. Calcule les fréquences (proportions).
+5. Exporte les résultats dans un fichier CSV.
+6. (Optionnel) Génère un graphique des symptômes les plus fréquents.
+
+## Prérequis
+- R version 4.0 ou supérieure.
+- Packages requis : `readxl`, `stringr`, `dplyr`, `ggplot2`.
+
+## Utilisation
+1. Placez le fichier Excel dans votre répertoire de travail.
+2. Exécutez le script dans R ou RStudio.
+3. Sélectionnez le fichier à importer lorsque le script demande un chemin.
+4. Les résultats seront exportés dans un fichier `frequences_symptomes.csv`.
+
+## Structure des données attendues
+- Une colonne nommée `Symptômes` contenant les symptômes.
+
+## Résultats
+- Un fichier CSV avec les colonnes suivantes :
+  - `Symptômes` : le nom du symptôme.
+  - `n` : le nombre d'occurrences du symptôme.
+  - `frequence` : la proportion du symptôme parmi les réponses totales.
+- Un graphique (optionnel) montrant la fréquence des symptômes.
+
+
+
+## Contact
+Pour toute question ou amélioration, contactez-moi à l'adresse mail: murielritazouzzou@gmail.com.
